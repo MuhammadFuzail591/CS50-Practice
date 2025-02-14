@@ -31,3 +31,4 @@ def display_info(**kwrgs):
         print(f"{key} : {value}")
 
 display_info(name = "Ali", age=21, city = "Sargodha");
+
